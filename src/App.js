@@ -71,4 +71,4 @@ function App() {
   );
 }
 
-export default App;   // <-- This fixes the Netlify build error
+export default App;
